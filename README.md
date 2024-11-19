@@ -1,0 +1,1 @@
+This project focuses on designing and configuring Access Control Lists (ACLs) in a simulated network environment using Cisco Packet Tracer. Its main objective is to enhance network security by managing and controlling traffic flow between different segments of an organization’s network.
